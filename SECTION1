@@ -1,0 +1,25 @@
+*You are tasked in building a new product, an online restaurant reservation platform - 
+hoose a front-end language/framework, back-end language/framework and a database management system. 
+Tell us why you’ve chosen this stack:*
+
+## Answers:
+
+Front-end: HTML, CSS, angular.js, Bootstrap
+Back-end: ruby on rails
+Database management system: MYSQL
+
+## Explanations:
+
+In order to develop the project with relevance to speed and convenience, using bootstrap framework can create responsive webs 
+along with necessary HTML and CSS, the building blocks of a webpage and top it off with angular.js to extend HTML vocabulary 
+to declare dynamic view in web-applications. For back-end, ruby on rails will be used as ruby is a relative simple object-oriented 
+scripting language to learn and the main reason for ruby: rails, the framework where convention is highlighted, flexible to make 
+changes to work and good testing framework. In terms of database management system, mySQL is selected as it is a common component 
+for LAMP stack, as it is cost effective alternative compared to other software stacks, on top on it, MySQL is very much scalable, 
+where it can be configured to adapt to a large set of conditions, hence the reservation system can be start small and grow later 
+in size or performances. 
+
+In addition, regarding hosting it would be suggested to use Google Cloud, as the client would not need to purchase or manage any 
+hardware, it is low cost (pay per use) if the traffic is relatively low. CloudSQL also provides good database management where the 
+programmers' work can be reduced. 
+
